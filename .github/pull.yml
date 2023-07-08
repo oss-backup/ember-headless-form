@@ -2,3 +2,4 @@ version: "1"
 rules:
   - base: upstream
     upstream: CrowdStrike:main
+    mergeMethod: hardreset
